@@ -7,8 +7,8 @@ public class mainJFrame {
     private JSplitPane splitPane;
     private JPanel controlPanel;
     private JPanel workArea;
-    private JButton create;
-    private JButton read;
-    private JButton update;
-    private JButton delete;
+    private JButton btnCreate;
+    private JButton btnRead;
+    private JButton btnUpdate;
+    private JButton btnDelete;
 }
