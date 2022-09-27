@@ -16,10 +16,18 @@ public class createJFrame {
     private JLabel lblNumber;
     private JLabel lblEmail;
     private JLabel lblPhoto;
-    private JTextField textName;
-    private JTextField textAge;
-    private JTextField textEmp_ID;
-    private JTextField textGender;
+    private JTextField textField1;
+    private JTextField textField2;
+    private JTextField textField3;
+    private JTextField textField4;
+    private JTextField textField5;
+    private JTextField textField6;
+    private JTextField textField7;
+    private JTextField textField8;
+    private JTextField textField9;
+    private JTextField textField10;
+    private JTextField textField11;
+    private JButton btnSave;
 
     private void createUIComponents() {
         // TODO: place custom component creation code here

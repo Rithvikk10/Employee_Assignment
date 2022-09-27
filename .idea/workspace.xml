@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edc75067-49d1-4ce3-80bd-00b931febfe6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/design/createJFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/createJFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/readJFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/readJFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/mainJFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/mainJFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/createJFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/createJFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/createJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/createJFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/design/mainJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/mainJFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "212",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "54",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -57,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664201829238</updated>
-      <workItem from="1664201830407" duration="5169000" />
+      <workItem from="1664201830407" duration="9232000" />
     </task>
     <servers />
   </component>
